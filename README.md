@@ -8,7 +8,7 @@ This project entails the development of a Statistical Language Model (LM) integr
 <img src="Screenshots/calculate_likely.png" alt="Calculate likely sequence output" width="100%" />
 <img src="Screenshots/Misprocessed_items.png" alt="Misprocessed items popup" width="100%" />
 <br>
-<div style="display: flex; justify-content: space-between;">
-  <img src="Screenshots/stats.png" alt="Stats" width="40%"; margin-right: 5px; />
+<div style="display: flex; justify-content: space-evenly;">
+  <img src="Screenshots/stats.png" alt="Stats" width="40%" />
   <img src="Screenshots/ngram_stats.png" alt="N-gram stats" width="40%" />
 </div>
