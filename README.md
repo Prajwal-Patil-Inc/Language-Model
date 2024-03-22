@@ -6,9 +6,9 @@ This project entails the development of a Statistical Language Model (LM) integr
 <img src="Screenshots/Screen1.png" alt="Home screen" width="100%" />
 <img src="Screenshots/Output_Screen.png" alt="Output screen" width="100%" />
 <img src="Screenshots/calculate_likely.png" alt="Calculate likely sequence output" width="100%" />
+<img src="Screenshots/Misprocessed_items.png" alt="Misprocessed items popup" width="100%" />
 <br>
 <div style="display: flex;">
-  <img src="Screenshots/Misprocessed_items.png" alt="Misprocessed items popup" width="30%"; margin-right: 5px; />
-  <img src="Screenshots/stats.png" alt="Stats" width="30%"; margin-right: 5px; />
-  <img src="Screenshots/ngram_stats.png" alt="N-gram stats" width="30%" />
+  <img src="Screenshots/stats.png" alt="Stats" width="50%"; margin-right: 5px; />
+  <img src="Screenshots/ngram_stats.png" alt="N-gram stats" width="50%" />
 </div>
